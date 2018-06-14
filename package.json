@@ -1,0 +1,16 @@
+{
+  "name": "ecma_meyu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://0z4ck@github.com/ecma_meyu/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
